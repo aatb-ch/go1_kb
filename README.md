@@ -1,5 +1,5 @@
 # go1_kb
-AATB's Unitree Go1 Knowledge Base. In any case first check [MAVProxyUser](https://github.com/MAVProxyUser/YushuTechUnitreeGo1) and (maggusscheppi)[https://github.com/maggusscheppi/Go1] repos, this is additional findings and notes we've collected while working and developing on the Go1 platform. These are things we are in the process of documenting so listed here but not obviously published yet.
+AATB's Unitree Go1 Knowledge Base. In any case first check [MAVProxyUser](https://github.com/MAVProxyUser/YushuTechUnitreeGo1) and [maggusscheppi](https://github.com/maggusscheppi/Go1) repos, this is additional findings and notes we've collected while working and developing on the Go1 platform. These are things we are in the process of documenting so listed here but not obviously published yet.
 
 # ROS
 - setup internet access on the Pi & Jetsons for easy install and update of external packages and repositories
